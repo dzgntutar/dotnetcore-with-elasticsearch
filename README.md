@@ -1,5 +1,11 @@
-# go to "/dotnetcore-with-elasticsearch" project folder
+# go to project folder:
 
-# docker-compose build
+"/dotnetcore-with-elasticsearch"
 
-# docker-compose up
+# docker compose build:
+
+docker-compose build
+
+# docker compose up:
+
+docker-compose up
